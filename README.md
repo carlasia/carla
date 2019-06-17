@@ -29,7 +29,7 @@ Después, el modelo se preparó para recibir un "aprendizaje por imitación", en
 
 Tras todo este trabajo, el resultado y la evolución puede verse en el siguiente vídeo:
 
-[![CARLA Video](Docs/img/video_thumbnail.png)]()
+[![CARLA Video](Docs/img/video_thumbnail.png)](https://youtu.be/zENvajO8_Gs)
 
 **NOTA:** los resultados obtenidos no se adjuntan debido a su gran tamaño (~30 GB).
 
